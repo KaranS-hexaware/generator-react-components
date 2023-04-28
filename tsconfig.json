@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "ES2021",
+      "lib": ["ES2021"],
+      "moduleResolution": "node",
+      "noImplicitAny": true,
+      "strictNullChecks": true,
+      "sourceMap": true,
+      "skipLibCheck": true,
+      "outDir": "generators",
+      "rootDir": "src",
+    },
+    "include": [
+      "src"
+    ],
+    "exclude": [
+      "node_modules",
+      "generators"
+    ]
+  }

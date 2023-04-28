@@ -1,0 +1,24 @@
+{
+  "name": "generator-react-components",
+  "version": "1.0.0",
+  "description": "new yeoman generator",
+  "files": [
+    "generators"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "my-component-testing-publish": "^0.1.1",
+    "yeoman-generator": "^5.8.0"
+  },
+  "devDependencies": {
+    "@types/yeoman-generator": "^5.2.11",
+    "typescript": "^5.0.4"
+  }
+}

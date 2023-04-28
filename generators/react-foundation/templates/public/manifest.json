@@ -1,0 +1,35 @@
+{
+  "short_name": "React App",
+  "icons": [
+    {
+      "src": "maskable.png",
+      "sizes": "280x280",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "logo348.png",
+      "sizes": "348x348",
+      "type": "image/png"
+    },
+    {
+      "src": "logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
